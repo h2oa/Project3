@@ -12,7 +12,7 @@ import time
 from datetime import datetime
 
 # payload list default
-PAYLOADS_PATH = './payloads.txt'
+PAYLOADS_PATH = '../payloads/Generic_Time.txt'
 LOG = 0
 
 # Create the parser

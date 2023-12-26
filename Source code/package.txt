@@ -1,0 +1,22 @@
+POST /login HTTP/2
+Host: 0abb0029044e78a082e16a38000a0094.web-security-academy.net
+Cookie: session=rg6Oy3ccu2OXOMG0ijZW8sg6ljmcjoW5
+Content-Length: 74
+Cache-Control: max-age=0
+Sec-Ch-Ua: 
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: ""
+Upgrade-Insecure-Requests: 1
+Origin: https://0abb0029044e78a082e16a38000a0094.web-security-academy.net
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.91 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://0abb0029044e78a082e16a38000a0094.web-security-academy.net/login
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+
+csrf=UAWDDHyxoYE45wLf8BkvusC376gowiF8&username=admin&password=somepassword
